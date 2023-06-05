@@ -1,6 +1,7 @@
 # Contacts_APP_Assignment
 
-This is a React Native application  developed by SUKHJIT SINGH that allows users to View  their contacts and Can also import contacts from google . It displays the user's Google profile information, such as name, email, and profile picture. It also fetches the user's Google contacts and phone contacts, and provides a search functionality to filter and display the contacts.
+This is a React Native application  developed by SUKHJIT SINGH that allows users to View  their contacts and Can also import contacts from google . It displays the user's Google profile information, such as name, email, and profile picture. It also fetches the user's Google contacts and phone contacts, and provides a search functionality to filter and display the contacts. Ihave some development experience in Flutter but I was begineer to React-native . In the alloted time , I go through online tutorials and documentations available on the internet to learn react-native and implement this .
+Due to Some dependecy errors , I was not able to export my expo build to android apk but I am configuring it and will update it here [APK](https://drive.google.com/drive/folders/1n7ugC37-YB11yL-gDwH4FxUbsTdufYUc?usp=sharing)
 
 ## Components
 
