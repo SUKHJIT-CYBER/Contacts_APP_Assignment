@@ -60,4 +60,17 @@ To clone and run this application locally, follow these steps:
          
 8. Launch the app: Use the Expo Client app on your mobile device or an Android/iOS emulator to scan the QR code displayed in the terminal or command prompt. This will launch the app on your device/emulator.
 
+
 9. Test the app: Once the app is running, you can test the functionality by signing in with your Google account and importing your contacts.
+
+![image](https://github.com/SUKHJIT-CYBER/Contacts_APP/assets/78156807/d1b90c15-3986-49e3-894a-a64ad835b352)
+
+![image](https://github.com/SUKHJIT-CYBER/Contacts_APP/assets/78156807/006c4050-9e96-4ae3-a1f3-a62886161c57)
+
+![image](https://github.com/SUKHJIT-CYBER/Contacts_APP_Assignment/assets/78156807/c847a15b-88e6-4c30-ac4a-1a7dd1cd1dcc)
+
+![image](https://github.com/SUKHJIT-CYBER/Contacts_APP_Assignment/assets/78156807/37069b6a-5861-4e09-9826-6fbe66fdcd52)
+
+![image](https://github.com/SUKHJIT-CYBER/Contacts_APP_Assignment/assets/78156807/5a47984b-c889-4465-9e44-7e1f36d1d87b)
+
+
